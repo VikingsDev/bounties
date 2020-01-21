@@ -17,8 +17,9 @@ Hunting guidelines for VikingsDev Bounties.
 To have a valid pull request:
 1. Pull request must be on GitHub
 2. Pull request must be merged
-3. Pull request must be made by your account
-4. Pull request must not have been submitted before
+3. Pull request must not have the label `invalid`
+4. Pull request must be made by your account
+5. Pull request must not have been submitted before
 
 - Your first submitted bounty will gain 5 points and 5 stickers.
 - Every bounty after will get 5 points for two stickers.
