@@ -30,7 +30,7 @@ team on Messenger or emailing vikingsdev@gmail.com
 ## Crown System
 
 The top three hunters will be recorded on the day marks are due for teachers at 11:59pm PST and will be able to choose from a 
-pool of prizes in priority of how they ended up on the leaderboard. 
+pool of prizes in priority of how they ended up on the leaderboard. Prize pool is tentative and will depend on the club's financial situation.
 
 How the leaderboard ranks:
   1. Sort by points. If points are equal go to 2.
