@@ -1,4 +1,4 @@
-![](bounties-bg.png)
+<a href="https://vikingsdev.ca/bounties">![](bounties-bg.png)</a>
 # VikingsDev Bounties - Full Documentation
 Hunting guidelines for VikingsDev Bounties.
 <br><br><br>
