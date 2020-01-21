@@ -6,7 +6,7 @@ Hunting guidelines for VikingsDev Bounties.
 1. [Create a GitHub Account](https://github.com/join)
 2. Submit a pull request at a GitHub repository.
 3. Have the pull request merged.
-4. Submit pull request link to (VikingsDev)[https://vikingsdev.ca/demo]
+4. Submit pull request link to [VikingsDev](https://vikingsdev.ca/demo)
 
 ## Bounty System
 
