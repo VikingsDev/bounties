@@ -1,5 +1,5 @@
 ![](bounties-bg.png)
-# bounties
+# VikingsDev Bounties - Full Documentation
 Hunting guidelines for VikingsDev Bounties.
 
 ## How to hunt a bounty
