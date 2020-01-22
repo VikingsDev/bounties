@@ -43,3 +43,5 @@ How the leaderboard ranks:
 Everytime you submit a claim to vikingsdev.ca/demo, your pull request information is checked against the GitHub API to see whether your pull request is valid or not by pinging api.github.com. GitHub's API has a rate limit of 60 requests per hour, that is, we can only ping the API 60 times in one hour. This means that you can only make 60 claims per hour.
 
 This is why you see the message `You can make X more claims this hour. This will reset to 60 at H:MM AM/PM.` on the demo page. 
+
+If you reach more than 60 pings to the GitHub API in one hour, you will be rate limited, which means you won't be able to ping the API for another 30 minutes. 
