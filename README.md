@@ -23,6 +23,7 @@ To have a valid pull request:
 
 - Your first submitted bounty will gain 5 points and 5 stickers.
 - Every bounty after will get 5 points for two stickers.
+### Appeals
 - An appeal can be made to get more points for a pull request by messaging using messenger [here](https://m.me/join/AbZu1Gg5blkFvuSQ) or email vikingsdev@gmail.ca. You must include the following information:
 ```
 Your Github Username: GITHUB_USERNAME
