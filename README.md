@@ -45,6 +45,12 @@ How the leaderboard ranks:
   1. Sort by points. If points are equal go to 2.
   2. Sort by number of projects. If number of projects are equal go to 3.
   3. Sort by the last submitted epoch time (priority to older submission)
+<br><br><br>
+<img src="bountybadge.svg" width="100px"/>
+
+## Bounty Hunter Badge
+
+After 5 valid submitted pull requests. you can ask for a holographic Bounty Hunter Badge, which identifies all true bounty hunters. You can only get this sticker once.
 
 ## Rate Limits
 
