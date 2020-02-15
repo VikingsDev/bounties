@@ -50,7 +50,7 @@ How the leaderboard ranks:
 
 ## Bounty Hunter Badge
 
-After 10 valid submitted pull requests. you can ask for a holographic Bounty Hunter Badge, which identifies all true bounty hunters. You can only get this sticker once.
+After you accumulate 50 points, you can ask for a holographic Bounty Hunter Badge, which identifies all true bounty hunters. You can only get this sticker once.
 
 ## Rate Limits
 
